@@ -4,3 +4,4 @@ Ghania Lieblings Rezepte:
 1. Kartoffel Auflauf
 2. Gemusen Suppe
 3. Salat
+4. Obst Salat
