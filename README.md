@@ -8,6 +8,21 @@
 2. Pizza
 3. Strogonoff
 
+
+Andreas sagt:
+Hier könnte Ihre Werbung stehen! Rufen Sie uns jetzt an!
+Bitte rufen Sie uns an und geben Sie uns all Ihr Geld!
+
+
+
+Ghania2
+Ghania Lieblings Rezepte:
+1. Kartoffel Auflauf
+2. Gemusen Suppe
+3. Salat
+
+
+
 Ich schreibe irgendwas hier von Mauro
 
 
