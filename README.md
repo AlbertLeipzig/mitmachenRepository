@@ -1,5 +1,12 @@
+
 # mitmachenRepository
 Übung am 9. Juni
+
+
+Nudeln in Pilzsauce
+Kartoffelauflauf
+Pizza ohne alles
+Noch eine Änderung
 
 
 # Mauros Lieblingsrezepte
@@ -37,6 +44,7 @@ Batman Deffinition:
  I will go back to Gotham and I will fight men Iike this but I will not become an executioner. I can't do that as Bruce Wayne... as a man. I'm flesh and blood. I can be ignored, destroyed. But as a symbol, I can be incorruptible, I can be everlasting.
 
  It was a dog. It was a big dog. I will go back to Gotham and I will fight men Iike this but I will not become an executioner. It's not who I am underneath but what I do that defines me.
+
 
 
 
