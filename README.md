@@ -1,4 +1,8 @@
 # mitmachenRepository
 Übung am 9. Juni
 
-Ich schreibe irgendwas hier von Mauro
+# Mauros Lieblingsrezepte
+
+1. Lasagne
+2. Pizza
+3. Strogonoff
