@@ -2,4 +2,7 @@
 # mitmachenRepository
 Übung am 9. Juni
 
-Elli war hier
+Nudeln in Pilzsauce
+Kartoffelauflauf
+Pizza ohne alles
+Noch eine Änderung
