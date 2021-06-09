@@ -1,5 +1,11 @@
 # mitmachenRepository
 Übung am 9. Juni
+Ghania2
+Ghania Lieblings Rezepte:
+1. Kartoffel Auflauf
+2. Gemusen Suppe
+3. Salat
+
 
 
 Ich schreibe irgendwas hier von Mauro
@@ -17,3 +23,4 @@ Batman Deffinition:
 
  It was a dog. It was a big dog. I will go back to Gotham and I will fight men Iike this but I will not become an executioner. It's not who I am underneath but what I do that defines me.
 
+main
