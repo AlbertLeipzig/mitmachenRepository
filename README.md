@@ -4,7 +4,7 @@
 
 
 
-Batman Lorem Ipsum:
+Batman Lorem Ipsum :
 
  It was a dog. It was a big dog. I'm not wearing hockey pads. It's not who I am underneath but what I do that defines me.
 
