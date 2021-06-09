@@ -1,13 +1,12 @@
 # mitmachenRepository
 Übung am 9. Juni
 
-<<<<<<< HEAD
+
 # Mauros Lieblingsrezepte
 
 1. Lasagne
 2. Pizza
 3. Strogonoff
-=======
 
 Ich schreibe irgendwas hier von Mauro
 
@@ -24,4 +23,4 @@ Batman Deffinition:
 
  It was a dog. It was a big dog. I will go back to Gotham and I will fight men Iike this but I will not become an executioner. It's not who I am underneath but what I do that defines me.
 
->>>>>>> 65042d787d5a50f9fe507bff41bf304a3b0cf90e
+
